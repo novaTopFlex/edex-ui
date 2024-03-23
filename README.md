@@ -124,7 +124,7 @@ Thanks! If you feel like it, you can [follow me on Twitter](https://gaby.dev/twi
 #### Starting from source:
 on *nix systems (You'll need the Xcode command line tools on macOS):
 - clone the repository
-- `npm run install-linux`
+- `npm run install-linux` ## npm --> nodeJS Package Manager
 - `npm run start`
 
 on Windows:
@@ -152,13 +152,7 @@ eDEX-UI's source code was primarily written by me, [Squared](https://github.com/
 [IceWolf](https://soundcloud.com/iamicewolf) composed the sound effects on v2.1.x and above. He makes really cool stuff, check out his music!
 
 ## Thanks
-Of course, eDEX would never have existed if I hadn't stumbled upon the amazing work of [Seena](https://github.com/seenaburns) on [r/unixporn](https://reddit.com/r/unixporn).
-
-This project uses a bunch of open-source libraries, frameworks and tools, see [the full dependency graph](https://github.com/GitSquared/edex-ui/network/dependencies).
-
-I want to namely thank the developers behind [xterm.js](https://github.com/xtermjs/xterm.js), [systeminformation](https://github.com/sebhildebrandt/systeminformation) and [SmoothieCharts](https://github.com/joewalnes/smoothie).
-
-Huge thanks to [Rob "Arscan" Scanlon](https://github.com/arscan) for making the fantastic [ENCOM Globe](https://github.com/arscan/encom-globe), also inspired by the TRON: Legacy movie, and distributing it freely. His work really puts the icing on the cake.
+Following the overarching ideas of the novaTop Philosophy, I proudly thrive to create a desktop-oriented edition of the original science fiction user interface as I do not believe in touchscreen elements on non-touch devices.
 
 ## Licensing
 
