@@ -137,7 +137,7 @@ on Windows:
 Note: Due to native modules, you can only build targets for the host OS you are using.
 
 - `npm install` (NOT `install-linux` or `install-windows`)
-- `npm run build-linux` or `build-windows` or `build-darwin`
+- `npm run build-linux` (Linux) or `build-windows` (Microsoft Windows) or `build-darwin` (Apple macOS)
 
 The script will minify the source code, recompile native dependencies and create distributable assets in the `dist` folder.
 
